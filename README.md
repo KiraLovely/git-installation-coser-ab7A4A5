@@ -14,5 +14,3 @@ Dieser zeigt nämlich die Git Version an, die gerade Installiert ist, wenn dort 
 Mein GitHub Konto hatte ich damals direkt über die Webseite erstellt, durch das Verbinden meines bereits Bestehenden Google-Kontos.
 
 Es sind während des Prozess keine Probleme aufgetreten, nicht bei der Desktop app installation, und auch nicht bei der Installation von Git selbst.
-
-Aus schulischen Zwecken, befindet sich hier am Ende noch eine weitere Datei, die den Prozess des herunterladens von Git (selbständig) mit Bildern beschreibt, auf einer Windows11-VM.
