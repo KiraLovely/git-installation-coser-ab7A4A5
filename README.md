@@ -7,8 +7,12 @@ Ich hatte über die offizielle GitHub webseite, die GitHub Desktop Software inst
 https://desktop.github.com/download/
 
 Ich hatte geliche Installationschritte befolgt, durch die GitHub Desktop Software.
-Dabei wurde mir auch direkt versichert das Git korrekt installiert wurde, da die Desktop app nicht funktioniert ohne Git.
+Dabei wurde mir auch direkt versichert das Git korrekt installiert wurde, da die Desktop app nicht funktioniert ohne Git.\
+Um trotzdem sicher zu stelle, das Git richtig funktioniert, habe ich im Terminal von Windows, den Befehl git --version verwendet.\
+Dieser zeigt nämlich die Git Version an, die gerade Installiert ist, wenn dort nämlich keine Version angezeigt wird, ist Git nicht installiert.
 
 Mein GitHub Konto hatte ich damals direkt über die Webseite erstellt, durch das Verbinden meines bereits Bestehenden Google-Kontos.
 
 Es sind während des Prozess keine Probleme aufgetreten, nicht bei der Desktop app installation, und auch nicht bei der Installation von Git selbst.
+
+Aus schulischen Zwecken, befindet sich hier am Ende noch eine weitere Datei, die den Prozess des herunterladens von Git (selbständig) mit Bildern beschreibt, auf einer Windows11-VM.
